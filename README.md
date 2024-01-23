@@ -3,37 +3,45 @@
 I'm a frontend developer. My experience involves creating websites and making them more user-friendly.
 
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
+![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-javascript-blue?logo=javascript)
+
+---
 
 ## Favorite Tech or Tools
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./img/javascript.svg" />
+      <img alt="javscript" src="./img/javascript.svg" />
     </td>
     <td align="center" width="96">
-      <img src="./img/react.svg" />
+      <img alt="React" src="./img/react.svg" />
     </td>
     <td align="center" width="96">
-      <img src="./img/nextjs.png" />
+      <img alt="Next.JS" src="./img/nextjs.png" />
     </td>
     <td align="center" width="96">
-      <img src="./img/typescript.svg" />
+      <img alt="Typescript" src="./img/typescript.svg" />
     </td>
     <td align="center" width="96">
-      <img src="./img/tailwind.png" />
+      <img alt="tailwind" src="./img/tailwind.png" />
     </td>
     <td align="center" width="96">
-      <img src="./img/googlemap.png" />
+      <img alt="GoogleMap" src="./img/googlemap.png" />
     </td>
     <td align="center" width="96">
-      <img src="./img/sass.svg" />
+      <img alt="SASS" src="./img/sass.svg" />
     </td>
     <td align="center" width="96">
-      <img src="./img/php.svg" />
+      <img alt="PHP" src="./img/php.svg" />
     </td>
     <td align="center" width="96">
-      <img src="./img/laravel.svg" />
+      <img alt="Laravel" src="./img/laravel.svg" />
     </td>
   </tr>
 </table>
 
+---
+
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joeyin)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-2C689E?style=for-the-badge&logo=instagram)](https://www.instagram.com/s60621tw)
+[![Flickr Badge](https://img.shields.io/badge/FLICKR-2C689E?style=for-the-badge&logo=flickr)](https://www.flickr.com/s60621tw)
