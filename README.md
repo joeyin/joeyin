@@ -1,16 +1,39 @@
-### Hi there 👋
+# 👋 Hey! I'm Joe Yin!
 
-<!--
-**joeyin/joeyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer. My experience involves creating websites and making them more user-friendly.
 
-Here are some ideas to get you started:
+![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorite Tech or Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/javascript.svg" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/react.svg" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/nextjs.png" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/typescript.svg" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/tailwind.png" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/googlemap.png" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/sass.svg" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/php.svg" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/laravel.svg" />
+    </td>
+  </tr>
+</table>
+
