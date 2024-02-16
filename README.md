@@ -1,3 +1,5 @@
+<img src="https://farm66.staticflickr.com/65535/coverphoto/33557015@N07_h.jpg?1661401135#33557015@N07"/>
+
 # 👋 Hey! I'm Joe Yin!
 
 I'm a frontend developer. My experience involves creating websites and making them more user-friendly.
