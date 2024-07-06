@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Joe Yin!
 
-I'm a front-end developer who loves freedom and travel. I enjoy exploring new countries, investing, and learning new things. My experience includes creating websites and optimizing content to make them more user-friendly. I've worked on interesting projects involving crypto, crypto exchanges, IoT, and gambling, which keep me passionate about the field.
+I'm a front-end developer who loves freedom and travel. I enjoy exploring new countries, investing, and learning new things. My experience includes creating websites and optimizing content to make them more user-friendly. I've worked on interesting projects involving e-commerce, crypto exchanges, IoT, and gambling, which keep me passionate about the field.
 
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-javascript-blue?logo=javascript)
