@@ -42,5 +42,5 @@ I'm a front-end developer who loves freedom and travel. I enjoy exploring new co
 
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joeyin)
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiweiyin/)
 [![Flickr Badge](https://img.shields.io/badge/FLICKR-2C689E?style=for-the-badge&logo=flickr)](https://www.flickr.com/s60621tw)
